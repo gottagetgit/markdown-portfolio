@@ -1,1 +1,2 @@
-Replace this with your name, and include a header.
+# Scott Duffy
+## Welcome to this page, cool ya!
